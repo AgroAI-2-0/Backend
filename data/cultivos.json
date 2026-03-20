@@ -1,0 +1,19 @@
+{
+  "tipo_cultivo": "maiz",
+  "hectareas": 10,
+  "fecha_siembra": "2026-03-01",
+  "ubicacion": "CDMX"
+}
+
+{
+  "agua": 5000,
+  "fertilizante": 200,
+  "insecticida": 50,
+  "semillas": 100
+}
+
+{
+  "eficiencia_agua": 0.8,
+  "factor_suelo": 1.2,
+  "rendimiento_base": 3.5
+}
