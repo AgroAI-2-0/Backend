@@ -1,4 +1,4 @@
-from app.optimization.formulas import (
+from app.models.optimization.formulas import (
     calcular_costo_total,
     estimar_rendimiento,
     optimizar_recursos

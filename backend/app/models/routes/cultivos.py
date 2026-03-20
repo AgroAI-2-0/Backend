@@ -1,6 +1,6 @@
 from fastapi import APIRouter
-from app.services.cultivo_service import procesar_cultivo
-from app.models.schemas import CultivoRequest
+from app.models.controllers.cultivo_controller import procesar_cultivo
+from app.models.models.schemas import CultivoRequest
 
 router = APIRouter()
 
